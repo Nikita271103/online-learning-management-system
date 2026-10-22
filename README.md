@@ -22,8 +22,8 @@ A microservices-based Online Learning Management System built using Java and Spr
 8. Result Service
 
 ## Project Progress
-- [x] Eureka Server
-- [ ] Student Service
+- [×] Eureka Server
+- [×] Student Service
 - [ ] Course Service
 - [ ] Instructor Service
 - [ ] Enrollment Service
@@ -34,5 +34,3 @@ A microservices-based Online Learning Management System built using Java and Spr
 
 ## Purpose
 The project is designed to manage online learning activities through independent microservices that communicate using REST APIs and service discovery.
-
-More implementation details will be added as development progresses.
